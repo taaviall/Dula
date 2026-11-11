@@ -120,8 +120,5 @@ def anna_harjutuste_nimed():
             nimed.append(treening["harjutus"])
 
     nimed.sort() # sorteerib nimed tähestiku järjekorda
-<<<<<<< HEAD
+    
     return nimed
-=======
-    return nimed
->>>>>>> origin/Kaarel
