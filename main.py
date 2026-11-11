@@ -518,3 +518,7 @@ class Statistika_frame(customtkinter.CTkFrame):
             self.fig.tight_layout() # Sätib graafiku layouti, et see ei jääks äärte taha
         self.canvas.draw() # Joonistab uue canvase
 
+
+
+app = App()
+app.mainloop()
